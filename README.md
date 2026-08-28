@@ -17,7 +17,7 @@
 
   <!-- 极简深蓝徽章 (Email & Blog) -->
   <p>
-    <a href="mailto:khalilhsu@gmail.com">
+    <a href="mailto:KhalilBuild@outlook.com">
       <img src="https://img.shields.io/badge/Email-1D4ED8?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     &nbsp;
