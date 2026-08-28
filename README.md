@@ -7,12 +7,13 @@
     <b><font size="6">Nice to meet you! 👋</font></b>
   </p>
 
-  <!-- 英文深蓝动态打字机 -->
+  <!-- 英文深蓝动态打字机（高度设为 50，居中饱满） -->
   <a href="https://github.com/KhalilHsu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1000&color=1D4ED8&center=true&vCenter=true&width=650&height=45&lines=I'm+a+Product+Designer;Working+by+day,+building+by+night;Crafting+interesting+%26+meaningful+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1000&color=1D4ED8&center=true&vCenter=true&width=650&height=50&lines=I'm+a+Product+Designer;Working+by+day,+building+by+night;Crafting+interesting+%26+meaningful+things" alt="Typing SVG" />
   </a>
 
-  <br/><br/>
+  <!-- 间距明显翻倍拉大，与下方间距完全对齐 -->
+  <p>&nbsp;</p>
 
   <!-- 极简深蓝徽章 (Email & Blog) -->
   <p>
@@ -31,7 +32,8 @@
     Feel free to reach out via email if you have any questions or want to discuss ideas!
   </p>
 
-  <br/>
+  <!-- 下方工具箱前间距 -->
+  <p>&nbsp;</p>
 
   <!-- 设计与开发工具箱 -->
   <p>
