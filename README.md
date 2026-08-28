@@ -12,18 +12,14 @@
 
   <br/><br/>
 
-  <!-- 极简深蓝徽章 -->
+  <!-- 极简深蓝徽章 (Email & Blog) -->
   <p>
     <a href="mailto:your_email@example.com">
       <img src="https://img.shields.io/badge/Email-1D4ED8?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     &nbsp;
-    <a href="https://twitter.com/your_handle" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter%2FX-1D4ED8?style=flat-square&logo=x&logoColor=white" alt="Twitter"/>
-    </a>
-    &nbsp;
-    <a href="https://github.com/KhalilHsu" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=flat-square&logo=safari&logoColor=white" alt="Portfolio"/>
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/Blog-1D4ED8?style=flat-square&logo=hashnode&logoColor=white" alt="Blog"/>
     </a>
   </p>
 
@@ -37,7 +33,7 @@
 
   <br/>
 
-  <!-- 设计与开发工具箱 (已修复空白图标，加入 Next.js 等) -->
+  <!-- 设计与开发工具箱 -->
   <p>
     <img src="https://skillicons.dev/icons?i=figma,notion,react,nextjs,tailwind,ts,js,html,css,git" alt="Tools & Tech Stack" />
   </p>
