@@ -2,12 +2,12 @@
 
   <br/>
 
-  <!-- 顶部问候（去除了 h1 自带的下划分割线，视觉更通透） -->
+  <!-- 顶部问候 -->
   <p align="center">
     <b><font size="6">Nice to meet you! 👋</font></b>
   </p>
 
-  <!-- 英文深蓝动态打字机（微调高度 height=45，收紧上下间距） -->
+  <!-- 英文深蓝动态打字机 -->
   <a href="https://github.com/KhalilHsu">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1000&color=1D4ED8&center=true&vCenter=true&width=650&height=45&lines=I'm+a+Product+Designer;Working+by+day,+building+by+night;Crafting+interesting+%26+meaningful+things" alt="Typing SVG" />
   </a>
@@ -25,10 +25,10 @@
     </a>
   </p>
 
-  <!-- 产品设计师 & Builder 标语 -->
+  <!-- 产品设计师 & Builder 标语 + 欢迎沟通提示 -->
   <p>
     🎨 <b>Design</b> · 💻 <b>Code</b> · 🚀 <b>Ship</b><br/>
-    Exploring product experiences by day, building ideas into reality by night.
+    Feel free to reach out via email if you have any questions or want to discuss ideas!
   </p>
 
   <br/>
