@@ -12,7 +12,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1000&color=1D4ED8&center=true&vCenter=true&width=650&height=45&lines=I'm+a+Product+Designer;Working+by+day,+building+by+night;Crafting+interesting+%26+meaningful+things" alt="Typing SVG" />
   </a>
 
-  <br/>
+  <br/><br/>
 
   <!-- 极简深蓝徽章 (Email & Blog) -->
   <p>
