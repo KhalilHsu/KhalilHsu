@@ -7,12 +7,12 @@
     <b><font size="6">Nice to meet you! 👋</font></b>
   </p>
 
-  <!-- 英文深蓝动态打字机（高度设为 50，居中饱满） -->
+  <!-- 英文深蓝动态打字机 -->
   <a href="https://github.com/KhalilHsu">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1000&color=1D4ED8&center=true&vCenter=true&width=650&height=50&lines=I'm+a+Product+Designer;Working+by+day,+building+by+night;Crafting+interesting+%26+meaningful+things" alt="Typing SVG" />
   </a>
 
-  <!-- 间距明显翻倍拉大，与下方间距完全对齐 -->
+  <!-- 留白间距 -->
   <p>&nbsp;</p>
 
   <!-- 极简深蓝徽章 (Email & Blog) -->
@@ -26,18 +26,18 @@
     </a>
   </p>
 
-  <!-- 产品设计师 & Builder 标语 + 欢迎沟通提示 -->
+  <!-- 产品设计师 & Builder 标语 + 沟通提示 -->
   <p>
     🎨 <b>Design</b> · 💻 <b>Code</b> · 🚀 <b>Ship</b><br/>
     Feel free to reach out via email if you have any questions or want to discuss ideas!
   </p>
 
-  <!-- 下方工具箱前间距 -->
+  <!-- 下方工具箱前留白间距 -->
   <p>&nbsp;</p>
 
-  <!-- 设计与开发工具箱 -->
+  <!-- 精选真实项目技术栈 (Swift, Python, Figma, Three.js, Unity, TS, JS, Apple, Git, Notion) -->
   <p>
-    <img src="https://skillicons.dev/icons?i=figma,notion,react,nextjs,tailwind,ts,js,html,css,git" alt="Tools & Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=figma,swift,apple,ts,js,py,threejs,unity,git,notion" alt="Tools & Tech Stack" />
   </p>
 
 </div>
