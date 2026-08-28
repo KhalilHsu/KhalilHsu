@@ -5,9 +5,9 @@
   <!-- 名字 -->
   <h1>Khalil</h1>
 
-  <!-- 深蓝动态打字机 -->
+  <!-- 英文深蓝动态打字机 -->
   <a href="https://github.com/KhalilHsu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3500&pause=1000&color=1D4ED8&center=true&vCenter=true&width=500&lines=%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%B8%88;%E6%88%91%E7%99%BD%E5%A4%A9%E5%B7%A5%E4%BD%9C%E6%99%9A%E4%B8%8A+Building;%E6%88%91%E5%B8%8C%E6%9C%9B%E8%83%BD%E5%81%9A%E5%87%BA%E4%B8%80%E4%BA%9B%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E4%BA%8B%E6%83%85" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=1D4ED8&center=true&vCenter=true&width=550&lines=I'm+a+Product+Designer;Working+by+day,+building+by+night;Crafting+interesting+%26+meaningful+things" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -32,19 +32,14 @@
   <!-- 产品设计师 & Builder 标语 -->
   <p>
     🎨 <b>Design</b> · 💻 <b>Code</b> · 🚀 <b>Ship</b><br/>
-    白天探索用户体验与产品逻辑，夜晚敲代码把想法变成现实。
+    Exploring product experiences by day, building ideas into reality by night.
   </p>
 
   <br/>
 
-  <!-- 设计与开发工具箱 -->
+  <!-- 设计与开发工具箱 (已修复空白图标，加入 Next.js 等) -->
   <p>
-    <img src="https://skillicons.dev/icons?i=figma,notion,framer,html,css,js,ts,react,tailwind,git" alt="Tools & Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=figma,notion,react,nextjs,tailwind,ts,js,html,css,git" alt="Tools & Tech Stack" />
   </p>
-
-  <br/><br/>
-
-  <!-- 极简 GitHub 数据统计 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=KhalilHsu&show_icons=true&theme=transparent&hide_border=true&title_color=1D4ED8&icon_color=1D4ED8&text_color=64748B" height="150" alt="GitHub Stats" />
 
 </div>
