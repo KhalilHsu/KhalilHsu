@@ -2,15 +2,17 @@
 
   <br/>
 
-  <!-- 顶部问候语 -->
-  <h1>Nice to meet you! 👋</h1>
+  <!-- 顶部问候（去除了 h1 自带的下划分割线，视觉更通透） -->
+  <p align="center">
+    <b><font size="6">Nice to meet you! 👋</font></b>
+  </p>
 
-  <!-- 英文深蓝动态打字机（加大字号 size=26，更加清晰大气） -->
+  <!-- 英文深蓝动态打字机（微调高度 height=45，收紧上下间距） -->
   <a href="https://github.com/KhalilHsu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=1000&color=1D4ED8&center=true&vCenter=true&width=700&height=60&lines=I'm+a+Product+Designer;Working+by+day,+building+by+night;Crafting+interesting+%26+meaningful+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1000&color=1D4ED8&center=true&vCenter=true&width=650&height=45&lines=I'm+a+Product+Designer;Working+by+day,+building+by+night;Crafting+interesting+%26+meaningful+things" alt="Typing SVG" />
   </a>
 
-  <br/><br/>
+  <br/>
 
   <!-- 极简深蓝徽章 (Email & Blog) -->
   <p>
@@ -22,8 +24,6 @@
       <img src="https://img.shields.io/badge/Blog-1D4ED8?style=flat-square&logo=hashnode&logoColor=white" alt="Blog"/>
     </a>
   </p>
-
-  <br/>
 
   <!-- 产品设计师 & Builder 标语 -->
   <p>
