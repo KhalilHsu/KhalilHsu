@@ -21,7 +21,7 @@
       <img src="https://img.shields.io/badge/Email-1D4ED8?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     &nbsp;
-    <a href="#" target="_blank">
+    <a href="https://khalilhsu.github.io/kh-field-notes/" target="_blank">
       <img src="https://img.shields.io/badge/Blog-1D4ED8?style=flat-square&logo=hashnode&logoColor=white" alt="Blog"/>
     </a>
   </p>
