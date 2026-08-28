@@ -4,7 +4,7 @@
 
   <!-- 顶部问候 -->
   <p align="center">
-    <b><font size="6">Nice to meet you! 👋</font></b>
+    <b><font size="6">Nice to meet you, I'm Khalil. 👋</font></b>
   </p>
 
   <!-- 英文深蓝动态打字机 -->
@@ -17,7 +17,7 @@
 
   <!-- 极简深蓝徽章 (Email & Blog) -->
   <p>
-    <a href="mailto:your_email@example.com">
+    <a href="mailto:khalilhsu@gmail.com">
       <img src="https://img.shields.io/badge/Email-1D4ED8?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     &nbsp;
@@ -35,7 +35,7 @@
   <!-- 下方工具箱前留白间距 -->
   <p>&nbsp;</p>
 
-  <!-- 精选真实项目技术栈 (Swift, Python, Figma, Three.js, Unity, TS, JS, Apple, Git, Notion) -->
+  <!-- 精选真实项目技术栈 -->
   <p>
     <img src="https://skillicons.dev/icons?i=figma,swift,apple,ts,js,py,threejs,unity,git,notion" alt="Tools & Tech Stack" />
   </p>
