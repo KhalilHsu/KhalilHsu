@@ -2,12 +2,12 @@
 
   <br/>
 
-  <!-- 名字 -->
-  <h1>Khalil</h1>
+  <!-- 顶部问候语 -->
+  <h1>Nice to meet you! 👋</h1>
 
-  <!-- 英文深蓝动态打字机 -->
+  <!-- 英文深蓝动态打字机（加大字号 size=26，更加清晰大气） -->
   <a href="https://github.com/KhalilHsu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=1D4ED8&center=true&vCenter=true&width=550&lines=I'm+a+Product+Designer;Working+by+day,+building+by+night;Crafting+interesting+%26+meaningful+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=1000&color=1D4ED8&center=true&vCenter=true&width=700&height=60&lines=I'm+a+Product+Designer;Working+by+day,+building+by+night;Crafting+interesting+%26+meaningful+things" alt="Typing SVG" />
   </a>
 
   <br/><br/>
